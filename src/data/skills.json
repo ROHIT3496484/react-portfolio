@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.jpg"
+  },
+  {
+    "title": "Linux",
+    "imageSrc": "skills/Linux.jpg"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C-PNG-Image.png"
+  },
+  {
+    "title": "Python(Basic)",
+    "imageSrc": "skills/Python.png"
+  }
+]

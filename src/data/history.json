@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer (Associate Solution Leader)",
+    "organisation": "Brane Enterprises Pvt Ltd",
+    "startDate": "Jan, 2024",
+    "endDate": "Feb 2025",
+    "experiences": ["Designed and developed a next-gen Human Resource Management System (HRMS) using ReactJS for a $300M healthcare platform (CallHealth) to manage 200+ employee records", "Implemented automated onboarding appointment scheduling CTC and tax calculations attendance tracking payroll processing performance evaluations and benefits management" ," Streamlined HR operations reducing manual processes by 40 percent and improving data accuracy by 60 percent while ensuring compliance with tax regulations and industry standards","Enabled real time access to HR data leading to a 35 percent increase in employee satisfaction", "25 percent improvement"," Automated 8+ HR processes (onboarding, payroll, scheduling), cutting manual tasks by 40% and boosting data accuracy by 60%", "Integrated 20+ RESTful APIs and WebSockets connections to enable real-time HR operations.","Optimized frontend performance, achieving 30% faster load times via optimizing bundle sizes using React.lazy and Suspense, and reducing re-renders using React.memo.","Increased HR team productivity by 25% and employee satisfaction by 35% through real-time dashboards and faster response systems"],
+    "imageSrc": "history/Brane-Enterprises.jpg"
+  },
+  {
+    "role": "Software Engineer (Technical Lead)",
+    "organisation": "HCLTECH",
+    "startDate": "Aug, 2022",
+    "endDate": "Dec, 2023",
+    "experiences": ["Led frontend enhancements for Cisco Diameter Routing Agent (DRA) interfaces and customized Grafana dashboards for network visualization and 10,000+ peer connections.", "Managed vSphere AIO and HA installations executed flawless setups for optimal performance and Led successful DRA upgrade and downgrade initiatives Led customization efforts for Grafana dashboards enhancing visualization and data representation. Worked on security vulnerabilities(Nessus scan and Corona scan) and DRA components evolution.Managed log debugging processes optimizing system performance and troubleshooting." ,"Integrated WebSocket connections for real-time peer status monitoring and alert systems, reducing response times by 20%.","Optimized frontend loading by splitting feature modules, which improves page responsiveness by 25%.","Installed, administered, and troubleshot VMware ESX/ESXi 5.5 hypervisors and vCenter environments, ensuring optimal VM and host performance, and contributed to CPS DRA development, handling diameter configurations."],
+    "imageSrc": "history/HCLTech.jpg"
+  },
+  {
+    "role": "Teaching Assistant",
+    "organisation": "IIT Ropar",
+    "startDate": "Sep, 2020",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Worked as Teaching Assistant with Master of Technology",
+      "Worked on Different Different TA's Labs"
+    ],
+    "imageSrc": "history/iit-ropar-logo.jpg"
+  }
+]
