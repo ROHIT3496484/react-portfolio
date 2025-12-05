@@ -28,7 +28,7 @@
     "imageSrc": "/assets/projects/project.png",
     "description": "Developed a real-time task board with React,Zustand, Socket, and react-beautiful-dnd  and drag-and-drop support across multiple users Optimized collaboration features by integrating real-time sockets and online user tracking, improving team productivity by 40% and ensuring instant UI updates",
     "skills": ["React", "JavaScript", "JSX", "JavaScript", "CSS"],
-    "source": "https://github.com/ROHIT3496484/Real-Time-Task-Board/",
+    "source": "https://github.com/ROHIT3496484/Real-Time-Task-Board/"
   },
   {
     "title": "Food Villa",
