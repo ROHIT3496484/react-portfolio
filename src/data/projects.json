@@ -41,7 +41,7 @@
   {
     "title": "Portfolio Project",
     "imageSrc": "/assets/projects/project.png",
-    "description": "This project is a comprehensive portfolio website built to present my professional identity, technical expertise, and project achievements in a clear and engaging manner. The portfolio serves as a centralized platform where visitors can explore my skillset.",
+    "description": "This project is a comprehensive portfolio website built to present my professional identity, technical expertise, and project achievements in a clear and engaging manner & platform where visitors can explore my skillset.",
     "skills": ["React", "JavaScript", "JSX", "CSS", "JSON"],
     "source": "https://github.com/ROHIT3496484/react-portfolio/",
     "Link": "https://rohit-rana-react-portfolio.vercel.app/"
