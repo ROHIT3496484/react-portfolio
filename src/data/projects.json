@@ -1,5 +1,43 @@
 [
   {
+    "title": "Email App with chatbot",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "A modern communication platform combining Gmail-style email management with an AI-powered chatbot, built with Next.js and designed with micro-frontend principles.",
+    "skills": ["React", "JavaScript", "TSX", "TypeScript", "CSS", "NextJS"],
+    "source": "https://github.com/ROHIT3496484/blue-bash-assignment--email-chatbot",
+    "Deployment Link":"https://blue-bash-assignment-email-chatbot.vercel.app/"
+  },
+  {
+    "title": "Retail Selling Price (RSP) of Petrol and Diesel across Indian metro cities",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "A production-ready React + TypeScript dashboard for analyzing the Retail Selling Price (RSP) of Petrol and Diesel across Indian metro cities.",
+    "skills": ["React", "JavaScript", "TSX", "TypeScript", "CSS"],
+    "source": "https://github.com/ROHIT3496484/Manufac-RSP/",
+    "Deployment Link":"https://manufac-rsp.vercel.app/"
+  },
+  {
+    "title": "Company-Directory--React-App",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "A React-based frontend application that displays brewery data from the Open Brewery DB API with advanced filtering, sorting, and pagination features.",
+    "skills": ["React", "JavaScript", "JSX", "JavaScript", "CSS"],
+    "source": "https://github.com/ROHIT3496484/Company-Directory--React-App/",
+    "Deployment Link":"https://company-directory-react-app.vercel.app/"
+  },
+  {
+    "title": "Real Time Task Board",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "Developed a real-time task board with React,Zustand, Socket, and react-beautiful-dnd  and drag-and-drop support across multiple users Optimized collaboration features by integrating real-time sockets and online user tracking, improving team productivity by 40% and ensuring instant UI updates",
+    "skills": ["React", "JavaScript", "JSX", "JavaScript", "CSS"],
+    "source": "https://github.com/ROHIT3496484/Real-Time-Task-Board/",
+  },
+  {
+    "title": "Food Villa",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "Developed a Swiggy-inspired React app that fetches real-time data for 100+ restaurants and 500+ menu items. Implemented dynamic routing, live search, and responsive UI with 20+ reusable components",
+    "skills": ["React", "JavaScript", "JSX", "JavaScript", "CSS"],
+    "source": "https://github.com/ROHIT3496484/food-villa/"
+  },
+  {
     "title": "React Work",
     "imageSrc": "/assets/projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
@@ -11,12 +49,13 @@
     "imageSrc": "/assets/projects/project.png",
     "description": "This project is about my detailed profile and skills and projects done by me.",
     "skills": ["React", "JavaScript", "JSX", "CSS", "JSON"],
-    "source": "https://github.com/ROHIT3496484/Portfolio/"
+    "source": "https://github.com/ROHIT3496484/react-portfolio/",
+    "Link": "https://rohit-rana-react-portfolio.vercel.app/"
   },
   {
     "title": "Music Genres Classification",
     "imageSrc": "/assets/projects/project.png",
-    "description": ["Preprocessed the audio signals from GTZAN dataset with the help of librosa python audio library Used","Recurrent Neural Network(LSTM) model to classify a given audio sample into one of the 10 different music genres. Analysed and compared the performance of LSTM models with different parameters."],
+    "description": ["Recurrent Neural Network(LSTM) model to classify a given audio sample into one of the 10 different music genres. Analysed and compared the performance of LSTM models with different parameters."],
     "skills": ["Python", "LSTM", "RNN"],
     "source": "https://www.github.com/ROHIT3496484/Music-Genres-Classification/"
   }
