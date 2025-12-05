@@ -33,7 +33,7 @@
   {
     "title": "Food Villa",
     "imageSrc": "/assets/projects/project.png",
-    "description": "Developed a Swiggy-inspired React app that fetches real-time data for 100+ restaurants and 500+ menu items. Implemented dynamic routing, live search, and responsive UI ",
+    "description": "Developed a Swiggy-inspired React app that fetches real-time data for 100+ restaurants and 500+ menu items. Implemented dynamic routing, live search",
     "skills": ["React", "JavaScript", "JSX", "JavaScript", "CSS"],
     "source": "https://github.com/ROHIT3496484/food-villa/"
   },
